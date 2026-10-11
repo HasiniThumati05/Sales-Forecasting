@@ -146,8 +146,8 @@ The dashboard includes
 
 ## 👩‍💻 Author
 
-**Jana Surya Ganga Bhavani**
+**Thumati Hasini**
 
-B.Tech Final Year (Information Technology)
+B.Tech Final Year (Artificial Intelligence and Machine Learning)
 
 Machine Learning & Data Science Enthusiast
